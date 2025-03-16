@@ -1,0 +1,22 @@
+.hero {
+  background-color: #f0f4ff;
+  padding: 80px 0;
+}
+
+.navbar {
+  font-size: 18px;
+}
+
+.input-group input {
+  border-right: none;
+}
+
+.input-group button {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-outline-dark {
+  display: flex;
+  align-items: center;
+}
